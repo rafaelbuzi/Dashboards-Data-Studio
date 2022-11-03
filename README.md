@@ -1,2 +1,3 @@
 # dashboards
-Relação de dashboards públicos criados por mim
+
+Relação de dashboards criados a partir de dados públicos.
